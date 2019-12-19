@@ -1,7 +1,7 @@
 Revision history for Ubic
 
 {{$NEXT}}
-1.61    2019-12-19
+1.62    2019-12-19
     * added /status/service json endpoint with status of all ubic services,
     (thanks to github:yurifedoseev, see https://github.com/berekuk/Ubic/pull/92)
 
